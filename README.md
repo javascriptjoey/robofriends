@@ -1,7 +1,8 @@
 ## Rockin Robots React App :iphone:
 This project was programmed with React.js
 and I used a really cool CSS framework http://tachyons.io/ to add a touch of magic :sparkles: to the styling.
- All Robots are dynamically fetched from this awesome resouce https://robohash.org/  
+ All Robots are being fetched from this awesome resouce https://robohash.org/  Lastly but not least I used this really cool fake API that is publicly available to
+ use for testing and prototyping https://jsonplaceholder.typicode.com/
 
 ## The Goal of this application was to build a react application and utilize all the core features of react :mortar_board:
 To learn how to build things into components and into containers and finally into a page in order to combine things and have an application 
