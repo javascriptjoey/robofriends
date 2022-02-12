@@ -1,4 +1,4 @@
-## Rockin Robots React App
+## Rockin Robots React App :iphone:
 This project was programmed with React.js
 and I used a really cool CSS framework called tachyons.io to add a touch of magic :sparkles: to the styling
 
@@ -26,5 +26,5 @@ Data flows one way and any time anything changes on a child component that just 
 
 https://javascriptjoey.github.io/robofriends/
 
-## Thanks for looking !
+## Thanks for looking ! :eyes:
 I deployed this application using github pages :smiley:
