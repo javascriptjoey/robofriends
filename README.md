@@ -13,6 +13,7 @@ To learn how to build things into components and into containers and finally int
 - Props
 - Children
 - Fetching data from API 
+- Hooks
 - Life Cycle Methods 
 - Filtering Data 
 - Working with text inputs 
