@@ -17,11 +17,11 @@ To learn how to build things into components and into containers and finally int
 - Creating a Scroll to wrap components 
 - Error handling thinking ahead and outside the box
 
-## :octocat: One Way data flow
+## One Way data flow :octocat:
 I learned everything travels from state to props and I can have multiple children but the only thing that can change state is a container component
 Data flows one way and any time anything changes on a child component that just triggers an event on the parent
 
-## :computer: Try out this application your self Click the link below to open the app in a new browser window
+## Try out this application your self Click the link below to open the app in a new browser window :computer: 
 
 https://javascriptjoey.github.io/robofriends/
 
