@@ -1,8 +1,8 @@
 ## Robofriends React App
 This project was programmed with React.js
 
-## The Goal of this application was to build a react application and utilize all the core features of react.
-To learn how to build things into components and into containers and finally into a page in order to combine things and have an application :mortar_board:
+## The Goal of this application was to build a react application and utilize all the core features of react :mortar_board:
+To learn how to build things into components and into containers and finally into a page in order to combine things and have an application 
 
 - Creating Components
 - Creating Containers
