@@ -58,6 +58,43 @@ export const robots = [
       name: 'Clement Dunbar',
       username: 'Dunbark',
       email: 'Dunbark@gmail.com'
-    } 
+    },
+    {
+      id: 11,
+      name: 'Gizmoe Jimenez',
+      username: 'Moe',
+      email: 'Moe@outlook.com'
+    },
+    {
+      id: 12,
+      name: 'Chow Jimenez',
+      username: 'Chow Chow',
+      email: 'Chow@outlook.com'
+    },
+    {
+      id: 13,
+      name: 'Amy Alcantar',
+      username: 'La Amy',
+      email: 'Amy@gmail.com'
+    },
+    {
+      id: 14,
+      name: 'Scooby Reynolds',
+      username: 'Scoob',
+      email: 'Scoob@yahoo.com'
+    },
+    {
+      id: 15,
+      name: 'Daisy Alcantar',
+      username: 'Daze',
+      email: 'Daze@gmail.com'
+    },
+    {
+      id: 16,
+      name: 'Matt Alcantar',
+      username: 'Matt Matt',
+      email: 'Matt_Matt@outlook.com'
+    }   
+
   ];
   

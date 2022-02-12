@@ -2,7 +2,7 @@ import React from "react";
 import Card from "../card/Card";
 
 const CardList = ({robots}) => {
-
+//Mapping over robots
 const cardcomponent = robots.map((user, i) => {
     return <Card 
     key={i} 
@@ -13,6 +13,7 @@ const cardcomponent = robots.map((user, i) => {
   />
 } )
 
+//CardList component return statement
     return(
         <div>
            {cardcomponent}

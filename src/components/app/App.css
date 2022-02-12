@@ -1,0 +1,20 @@
+
+       @font-face {
+        font-family: 'Origin Tech Demo Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Origin Tech Demo Regular'), url('OriginTech personal use.woff') format('woff');
+        }
+
+        h1{
+            font-family: 'Origin Tech Demo Regular';
+            font-weight: 200;
+            color: #fce4ec;
+            text-shadow: 4px 4px #311b92;
+        }
+
+        .heading-1{
+            font-size: 75px;
+        }
+
+         
