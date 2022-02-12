@@ -21,8 +21,8 @@ To learn how to build things into components and into containers and finally int
 - Error handling thinking ahead and outside the box
 
 ## One Way data flow :octocat:
-I learned everything travels from state to props and I can have multiple children but the only thing that can change state is a container component
-Data flows one way and any time anything changes on a child component that just triggers an event on the parent
+I learned everything travels from state to props and I can have multiple children but the only thing that can change state is a container component.
+ Data flows one way and any time anything changes on a child component that just triggers an event on the parent
 
 ## Try out this application your self click the link below to open the app in a new browser window :computer: 
 
